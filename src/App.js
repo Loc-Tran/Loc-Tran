@@ -36,7 +36,7 @@ class App extends React.Component {
         <Header HeaderId="header" HeaderClass="skel-layers-fixed" HeaderTextElement=<h1>Loc Tran</h1> HeaderOptionalElement={this.NavBar} />
 				<Banner SectionId="banner" TextCSSId="inner" h2Text="Online Portfolio"/>
 				<section id="one" class="wrapper style1">
-				  <Header HeaderId="one" HeaderClass="major" HeaderTextElement=<h2>About Me</h2> HeaderOptionalElement=<p>I'm a UNSW Computer Science postgraduate student and have been working professionally for 2 years. My specialities lie within full stack and video game development. I am also interested in artificial intelligence.</p> />
+				  <Header HeaderId="one" HeaderClass="major" HeaderTextElement=<h2>About Me</h2> HeaderOptionalElement=<p>I'm a UNSW Computer Science postgraduate student and have been working professionally for 2 years. My specialities lie within full stack development. I am also interested in artificial intelligence.</p> />
 			  </section>
 				<section id="two" class="wrapper style2">
 				  <Header HeaderClass="major" HeaderTextElement=<h2>Projects</h2>  HeaderOptionalElement=<p>Here are the projects I've personally worked on.</p> />
