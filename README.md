@@ -1,3 +1,9 @@
+Hosted at: https://github.com/Loc-Tran/Portfolio
+
+
+
+
+
 Single page personal website.
 Aims are to learn React and showcase my work.
 ReactModules not commited because ignored on purpose.
