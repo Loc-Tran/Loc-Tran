@@ -1,4 +1,4 @@
-Hosted at: https://github.com/Loc-Tran/Portfolio
+Hosted at: https://loc-tran.github.io/Portfolio/
 
 
 
