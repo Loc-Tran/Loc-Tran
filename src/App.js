@@ -42,8 +42,7 @@ class App extends React.Component {
 				  <Header HeaderClass="major" HeaderTextElement=<h2>Projects</h2>  HeaderOptionalElement=<p>Here are the projects I've personally worked on.</p> />
 				  <div class="container">
 					  <div class="row">
-					    <ProjectEntry ImageSource={pic01} ProjectName="Guy standing here" ProjectLink="http://www.google.com" ProjectDetailsText="Eget mi ac magna cep lobortis faucibus accumsan enim lacinia adipiscing metus urna adipiscing cep commodo id." />
-					    					    <ProjectEntry ImageSource={pic01} ProjectName="Guy standing here" ProjectLink="http://www.google.com" ProjectDetailsText="Eget mi ac magna cep lobortis faucibus accumsan enim lacinia adipiscing metus urna adipiscing cep commodo id." />
+					    <ProjectEntry ImageSource={pic01} ProjectName="hero.gg" ProjectLink="http://hero.gg" ProjectDetailsText="A analytics website for the popular multiplayer video game DotA 2 focusing on statistical information of in-game player characters. Built using C# ASPNET, ReactJS and MongoDB. Note: Work in Progress so link will be broken." />
 					  </div>
 				  </div>
 			  </section>
