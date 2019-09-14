@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "020671a8c6f4b1adbacf97e0c5ff25cb",
+    "revision": "30a4b37397856e035cc82b15244e13d4",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "54d34e657aee591bb67e",
+    "revision": "469ff048901fa9d54fa9",
     "url": "/Portfolio/static/css/main.5372b7ec.chunk.css"
   },
   {
-    "revision": "763f994f0b56124c8be2",
-    "url": "/Portfolio/static/js/2.61d06600.chunk.js"
+    "revision": "a6f456ddfedb2c0c4f36",
+    "url": "/Portfolio/static/js/2.cefa06b3.chunk.js"
   },
   {
-    "revision": "54d34e657aee591bb67e",
-    "url": "/Portfolio/static/js/main.c8ce0aa4.chunk.js"
+    "revision": "469ff048901fa9d54fa9",
+    "url": "/Portfolio/static/js/main.532b9d41.chunk.js"
   },
   {
     "revision": "f412928a7ed1b991cdae",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/fontawesome-webfont.d95d6f5d.woff"
   },
   {
-    "revision": "78f15aaec6e40c8a86c5382c08c69dcd",
-    "url": "/Portfolio/static/media/pic02.78f15aae.jpg"
+    "revision": "d9428db1a7ec4e39a7b66076c34deb7c",
+    "url": "/Portfolio/static/media/pic02.d9428db1.jpg"
   },
   {
     "revision": "0de1ea0f6e5e349c2fb0e10d2731af83",
