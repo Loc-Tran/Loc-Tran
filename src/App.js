@@ -42,7 +42,7 @@ class App extends React.Component {
 				  <Header HeaderClass="major" HeaderTextElement=<h2>Projects</h2>  HeaderOptionalElement=<p>Here are the projects I've personally worked on.</p> />
 				  <div class="container">
 					  <div class="row">
-					    <ProjectEntry ImageSource={pic01} ProjectName="hero.gg" ProjectLink="http://hero.gg" ProjectDetailsText="A analytics website for the popular multiplayer video game DotA 2 focusing on statistical information of in-game player characters. Built using C# ASPNET, ReactJS and MongoDB. Note: Work in Progress so link will be broken." />
+					    <ProjectEntry ImageSource={pic01} ProjectName="hero.gg" ProjectLink="http://hero.gg" ProjectDetailsText="An analytics website for the popular multiplayer video game DotA 2 focusing on statistical information of in-game player characters. Built using C# ASP.NET, React.JS and MongoDB. Note: Work in Progress so link will be broken." />
 					  </div>
 				  </div>
 			  </section>
@@ -51,7 +51,7 @@ class App extends React.Component {
 					<ul class="copyright">					  
 						<li>&copy; Loc Tran. All rights reserved.</li>
 						<li>Design: <a href="http://templated.co">TEMPLATED</a> (Modified as needed)</li>
-						<li>Images: Loc Tran</li>
+						<li>Images: Loc Tran, Valve</li>
 					</ul>
 			</footer>
       </body>
