@@ -42,7 +42,7 @@ class App extends React.Component {
 				  <Header HeaderClass="major" HeaderTextElement=<h2>Projects</h2>  HeaderOptionalElement=<p>Here are the projects I've personally worked on.</p> />
 				  <div class="container">
 					  <div class="row">
-					    <ProjectEntry ImageSource={pic01} ProjectName="hero.gg" ProjectLink="http://hero.gg" ProjectDetailsText="An analytics website for the popular multiplayer video game DotA 2 focusing on statistical information of in-game player characters. Built using C# ASP.NET, React.JS and MongoDB. Note: Work in Progress so link will be broken." />
+					    <ProjectEntry ImageSource={pic01} ProjectName="hero.gg" ProjectLink="https://github.com/Loc-Tran/hero.gg" ProjectDetailsText="An analytics website for the popular multiplayer video game DotA 2 focusing on simplifying statistical information of in-game player characters pulled from OpenDotA API. Built using C# ASP.NET, React.JS and MongoDB." />
 					  </div>
 				  </div>
 			  </section>
